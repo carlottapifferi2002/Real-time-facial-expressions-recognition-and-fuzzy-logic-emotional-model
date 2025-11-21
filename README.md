@@ -1,2 +1,2 @@
-# fuzzy-logic-emotional-model-using-Real-time-facial-expressions-recognition-
+# Fuzzy logic emotional model using real-time facial expressions recognition
 This repository includes the full fuzzy pipeline (JSON controllers, emotional manager, inference engine and ROS node) used to modulate the TIAGo robot’s behaviour based on facial expressions detected in real time through its onboard camera. The system updates mood, alertness, speed and navigation tuning according to personality profiles (shy/intense), enabling adaptive and human-aware navigation.
